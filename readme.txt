@@ -1,2 +1,2 @@
 Danny is learning Git!
-Getting started!
+Git is a free software distributed system under the GPL.
